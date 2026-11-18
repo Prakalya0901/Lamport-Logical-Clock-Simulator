@@ -1,0 +1,22 @@
+{
+  "name": "lamport-logical-clock-simulator",
+  "version": "1.0.0",
+  "description": "Mini Project in Distributed Computing: Lamport Logical Clock Simulator for Multiple Distributed Processes & Event Ordering Demonstration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "cli": "node cli.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "distributed-computing",
+    "lamport-clock",
+    "logical-clock",
+    "total-ordering",
+    "happens-before",
+    "causality",
+    "space-time-diagram"
+  ],
+  "author": "Distributed Computing Mini Project",
+  "license": "MIT"
+}
